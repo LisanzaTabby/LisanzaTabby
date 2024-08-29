@@ -1,12 +1,12 @@
-<img align="right" src="https://image.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg" alt="lisanzatabby" />
 <h1 align="center">Hi 👋, I'm Tabitha Tsisika Lisanza</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">I am a passionate front-end developer from Kenya</h3>
+<img align="right" src="https://image.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg" alt="lisanzatabby" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lisanzatabby&label=Profile%20views&color=0e75b6&style=flat" alt="lisanzatabby" /> </p>
 
 - 🌱 I’m currently learning **Python-Django with Tailwind CSS**
 
-- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, PHP**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, PHP**
 
 - 📫 How to reach me **lisanzatabitha@gmail.com**
 
