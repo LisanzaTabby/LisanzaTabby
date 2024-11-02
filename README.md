@@ -3,7 +3,7 @@
 <img align="right" src="https://image.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg" alt="lisanzatabby" />
 
 
-- 🌱 I’m currently learning **Python-Django with Tailwind CSS**
+- 🌱 I’m currently learning **Django-Rest-Framework**
 
 - 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, PHP**
 
