@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Tabitha Tsisika Lisanza</h1>
 <h3 align="center">A passionate and aspiring Full-Stack web Developer from Kenya</h3>
 <img align="right" src="https://image.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg" alt="lisanzatabby" />
@@ -29,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisanzatabby&show_icons=true&locale=en" alt="lisanzatabby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisanzatabby&" alt="lisanzatabby" /></p>
-
